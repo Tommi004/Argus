@@ -64,3 +64,5 @@ La repository contiene codice, configurazioni e documentazione.
 
 Dataset, pesi dei modelli, ambienti virtuali e credenziali
 devono essere conservati separatamente ed esclusi da Git.
+
+Prova di collaborazione Git completata da Tommaso.
