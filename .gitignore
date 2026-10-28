@@ -1,0 +1,14 @@
+# Ambiente Python locale
+.venv/
+
+# File temporanei Python
+__pycache__/
+*.pyc
+
+# Credenziali locali
+.env
+
+# Dataset e risultati voluminosi
+data/
+datasets/
+outputs/
